@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mission-Token-Exchange/precache-manifest.c5660b15448e568fca74c6e8d20571a2.js"
+  "/Mission-Token-Exchange/precache-manifest.8ce9b3d75dd7b8e14eef57c64d5445aa.js"
 );
 
 self.addEventListener('message', (event) => {
