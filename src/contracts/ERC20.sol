@@ -8,8 +8,8 @@ contract ERC20 is Ownable {
     using SafeMath for uint256;
 
     // Variables
-    string public name = "Mission Token";
-    string public symbol = "MSN";
+    string public name = "Hire Token";
+    string public symbol = "HIRE";
     uint256 public decimals = 18;
     uint256 public totalSupply;
     mapping(address => uint256) public balanceOf;

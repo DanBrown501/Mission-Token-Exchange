@@ -77,7 +77,7 @@ contract Token {
 
     // Variables
     string public name = "Mission Token";
-    string public symbol = "MSN";
+    string public symbol = "HIRE";
     uint256 public decimals = 18;
     uint256 public totalSupply;
     mapping(address => uint256) public balanceOf;

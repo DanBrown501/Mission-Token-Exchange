@@ -8,8 +8,8 @@ require('chai')
 
 
 contract ('ERC20', ([deployer, receiver, exchange]) => {
-    const name = 'Mission Token'
-    const symbol = 'MSN'
+    const name = 'HIRE Token'
+    const symbol = 'HIRE'
     const decimals = '18'
     const totalSupply = tokens(1000000).toString()
     let token
